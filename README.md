@@ -1,3 +1,3 @@
 # LiveDataTest
 
-A small project to shwo how to use LiveData<T>.
+A small project to show how to use LiveData<T>.
